@@ -1,0 +1,9 @@
+┣ 📂src
+┃ ┣ 📂components
+┃ ┃ ┗ 📜App.jsx
+┃ ┣ 📜index.html
+┃ ┗ 📜main.jsx
+┣ 📜jsconfig.json
+┣ 📜package.json
+┗ 📜vite.config.js
+┗ 📜package-lock.json
